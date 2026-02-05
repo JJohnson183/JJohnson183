@@ -3,14 +3,7 @@
 Welcome to my GitHub profile! I’m **Jordan Johnson**, a **Computer Science student at Western Michigan University** passionate about **software development and full-stack engineering**.
 
 ---
-
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=JJohnson183&show_icons=true&theme=tokyonight)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JJohnson183&layout=compact&theme=tokyonight)
-  
-</div>
-
+![](https://nirzak-streak-stats.vercel.app/?user=JJohnson183&theme=tokyonight&hide_border=false)<br/>
 ---
 
 ## 💻 About Me
