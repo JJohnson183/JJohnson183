@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JJohnson183&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=JJohnson183&theme=dark"/>
 </p>
 
 ---
